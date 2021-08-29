@@ -68,6 +68,10 @@
 [Ads_eng]   # English
 .*sync.*corrections.*by.*
 
+[Ads_nld]
+.*piraat\.nl.*
+.*ndertitel(ing|d).*(:|door).*
+
 [Ads_pol]   # Polish
 .*chomikuj.pl.*
 .*dopasowanie:.*
